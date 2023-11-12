@@ -43,8 +43,8 @@ Setup content type and create few entries
 
 Get Space ID, Access Token and explore code examples.
 
-Space ID - u9u7190d6brs
-Access Token - 6Ek7rvfiiVOA0UtzlAuWJOOs-8yR1NewUs4OUlF-9Jw
+Space ID - 
+Access Token - 
 
 #### Install SDK
 
